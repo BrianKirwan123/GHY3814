@@ -28,6 +28,7 @@ Boone, North Carolina, USA
 ##Work Experience
 
 ####Related Work Experience
+
 N/A
 
 ####Unrelated Work Expereicne
