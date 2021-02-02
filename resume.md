@@ -6,7 +6,7 @@ kirwanbf@appstate.edu / briankirwan123@gmail.com
 
 ## Summary
 
-![](/img/personalimage.jpg)
+![](https://github.com/BrianKirwan123/GHY3814/blob/master/img/personalimage.JPG)
 Hyperfocused three year undergraduate student with highlighted focus on Geographic Information Systems, Political and Human Geography, and local and regional urban development. Reserach focused on the effects of international and domestic sports on nationalism and sovereignty and  environmental economics.
 
 ## Education
