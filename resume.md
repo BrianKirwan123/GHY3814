@@ -1,6 +1,7 @@
 # Brian Kirwan
 
 Geographic Information Systems Technician
+
 kirwanbf@appstate.edu / briankirwan123@gmail.com
 
 [Incomplete Portfolio - Requires Appalachian State University Login](https://appstate.digication.com/brian-kirwan-geography)
