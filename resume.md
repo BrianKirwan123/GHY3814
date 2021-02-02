@@ -7,7 +7,6 @@ kirwanbf@appstate.edu / briankirwan123@gmail.com
 ## Summary
 
 ![](img/personalimage.jpg)
-
 Hyperfocused three year undergraduate student with highlighted focus on Geographic Information Systems, Political and Human Geography, and local and regional urban development. Reserach focused on the effects of international and domestic sports on nationalism and sovereignty and  environmental economics.
 
 ## Education
@@ -28,7 +27,6 @@ Boone, North Carolina, USA
 ## Work Experience
 
 #### Related Work Experience
-
 N/A
 
 #### Unrelated Work Expereicne
